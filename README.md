@@ -23,6 +23,7 @@
 
 ## 📸 Preview
 ![LightItUp Preview](preview.png)
+![LightItUp Preview](preview_BulbOn.png)
 > _"Let there be light—with a click!"_
 
 ---
