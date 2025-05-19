@@ -22,7 +22,7 @@
 ---
 
 ## 📸 Preview
-![LightItUp Preview](https://codebybhumika.github.io/light-bulb/preview.png)
+![LightItUp Preview]([https://codebybhumika.github.io/light-bulb/preview.png](https://codebybhumika.github.io/light-it-up/))
 
 > _"Let there be light—with a click!"_
 
