@@ -2,7 +2,7 @@
 
 **Toggle the vibe!** A fun and interactive light bulb project built with HTML, CSS, and JavaScript. Click the switch and bring the light to life!
 
-🚀 **Live Demo**: [codebybhumika.github.io/light-it-up](https://codebybhumika.github.io/light-bulb/)
+🚀 **Live Demo**: [codebybhumika.github.io/light-it-up](https://codebybhumika.github.io/light-it-up/)
 
 ---
 
